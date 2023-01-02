@@ -17,6 +17,8 @@ namespace HelloWebApi
         public DateTime PublishDate { get; set; }
 
         public string SinirliDavut { get; set; }
+        public string papatyacayiic { get; set; }
+
 
     }
 }
