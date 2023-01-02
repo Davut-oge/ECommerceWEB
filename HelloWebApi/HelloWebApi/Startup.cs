@@ -52,6 +52,7 @@ namespace HelloWebApi
             }
 
             app.UseSwagger();
+            //deneme ahahahaha
 
             app.UseSwaggerUI(c =>
             {
