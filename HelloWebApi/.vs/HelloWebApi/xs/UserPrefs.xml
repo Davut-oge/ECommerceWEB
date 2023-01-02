@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FBBA19DB-D60A-4966-AE29-E5B3D291CF98}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWebApi/Program.cs">
+    <Files>
+      <File FileName="HelloWebApi/Controllers/BookController.cs" />
+      <File FileName="HelloWebApi/BookOperations/CreateBook/CreateBooksCommand.cs" />
+      <File FileName="HelloWebApi/Book.cs" />
+      <File FileName="HelloWebApi/BookOperations/GetBooksQueryDetail/GetBookQueryDetail.cs" />
+      <File FileName="HelloWebApi/BookOperations/GetBooks/GetBooksQuery.cs" />
+      <File FileName="HelloWebApi/DbOperations/BookStoreDbContext.cs" />
+      <File FileName="HelloWebApi/DbOperations/DataGenerator.cs" />
+      <File FileName="HelloWebApi/Program.cs" Line="21" Column="35" />
+      <File FileName="HelloWebApi/Startup.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anilduz/Projects/HelloWebApi/HelloWebApi/Controllers/WeatherForecastController.cs" relfile="HelloWebApi/Controllers/WeatherForecastController.cs" line="41" column="1" />
+      <Breakpoint file="/Users/anilduz/Projects/HelloWebApi/HelloWebApi/Controllers/WeatherForecastController.cs" relfile="HelloWebApi/Controllers/WeatherForecastController.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
