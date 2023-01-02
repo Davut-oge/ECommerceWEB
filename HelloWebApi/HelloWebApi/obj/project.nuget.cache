@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XlQbZGWQi0gryjG5FhDZb9Qc+Zy35IQAmmFwM1ZVb+1CHK48BFMVBEjudk8JGFBVvPLAOIk2TTN/PbA0ttPCZw==",
+  "dgSpecHash": "Gq7ezKpA1c4v7CjV4ty1yZjfW9WZWFc0+MhZImPLTHqBuhi411Gi98jUlDABp/uKw/jsmjtkXV8Ns6jj3aZt0w==",
   "success": true,
-  "projectFilePath": "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
+  "projectFilePath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
   "expectedPackageFiles": [
     "/Users/anilduz/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/Users/anilduz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

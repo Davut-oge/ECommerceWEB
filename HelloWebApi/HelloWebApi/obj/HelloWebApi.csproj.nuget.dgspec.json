@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/HelloWebApi.csproj": {}
+    "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/HelloWebApi.csproj": {}
   },
   "projects": {
-    "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/HelloWebApi.csproj": {
+    "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/HelloWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
+        "projectUniqueName": "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
         "projectName": "HelloWebApi",
-        "projectPath": "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
+        "projectPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/HelloWebApi.csproj",
         "packagesPath": "/Users/anilduz/.nuget/packages/",
-        "outputPath": "/Users/anilduz/Projects/HelloWebApi/HelloWebApi/obj/",
+        "outputPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/HelloWebApi/HelloWebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anilduz/.nuget/NuGet/NuGet.Config"
