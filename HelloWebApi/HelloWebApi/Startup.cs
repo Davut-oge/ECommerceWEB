@@ -52,7 +52,7 @@ namespace HelloWebApi
             }
 
             app.UseSwagger();
-            //deneme
+            //deneme ahahahaha
 
             app.UseSwaggerUI(c =>
             {
